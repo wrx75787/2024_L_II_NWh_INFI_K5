@@ -1,5 +1,4 @@
 version: 2.1 
->>>>>>> f09cd88880827a270fa59c48b94d686fc9cc4f40
 jobs:
   build-and-test:
     machine:
